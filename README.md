@@ -1,4 +1,7 @@
 **CodSoft Assignment Projects**
+
+
+
 As part of my journey with CodSoft, I had the opportunity to work on some exciting projects that helped me sharpen my skills and creativity. Here's a quick overview:
 
 **Calculator App**
